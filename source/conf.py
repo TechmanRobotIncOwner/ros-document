@@ -6,7 +6,7 @@ author = 'Techman Robot Inc'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1'
-
+master_doc = 'index'
 
 templates_path = ['_templates']
 
