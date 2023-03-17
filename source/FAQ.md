@@ -1,7 +1,5 @@
 ## __FAQ__
 
-Insise FAQ, there are two topics, the first is about common connection problem, the other is build & install problem.
-
 ### Common connection problem
 We listed some common connect problem, if you have any problem in connect, you can read it.
 
